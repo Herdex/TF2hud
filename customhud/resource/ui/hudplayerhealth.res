@@ -22,8 +22,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"75"
-		"xpos_minmode"	"60"
+		"xpos"			"30"
 		"ypos"			"35"
 		"zpos"			"4"
 		"wide"			"51"
@@ -51,11 +50,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"84"	[$WIN32]
-		"ypos"			"52"	[$WIN32]
+		"xpos"			"79"	[$WIN32]
+		"ypos"			"53"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"25"	[$WIN32]
-		"tall"			"25"	[$WIN32]
+		"wide"			"28"	[$WIN32]
+		"tall"			"28"	[$WIN32]
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
@@ -65,8 +64,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"54"
-		"ypos"			"22"	[$WIN32]
+		"xpos"			"51"
+		"ypos"			"24"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"85"
 		"tall"			"85"
@@ -81,8 +80,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"52"
-		"ypos"			"23"[$WIN32]
+		"xpos"			"49"
+		"ypos"			"26"[$WIN32]
 		"zpos"			"3"
 		"wide"			"85"
 		"tall"			"85"
