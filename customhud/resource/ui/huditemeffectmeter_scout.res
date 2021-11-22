@@ -6,8 +6,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"x_offset"		"40"
-		"xpos"			"c8"	[$WIN32]
-		"ypos"			"c71"	[$WIN32]
+		"xpos"			"c7"	
+		"ypos"			"c74"	
 		"wide"			"1000"
 		"tall"			"500"
 		"MeterFG"		"White"
