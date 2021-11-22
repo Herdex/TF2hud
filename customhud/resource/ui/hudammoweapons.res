@@ -57,7 +57,7 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"HudFontMediumBigBold"
 		"fgcolor"		"0 0 0 255"
-		"xpos"			"26"
+		"xpos"			"27"
 		"ypos"			"17"
 		"zpos"			"5"
 		"wide"			"55"
