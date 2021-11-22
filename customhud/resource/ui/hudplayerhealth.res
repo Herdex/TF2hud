@@ -17,19 +17,7 @@
 		"HealthBonusPosAdj"	"35"
 		"HealthDeathWarning"	"0.70"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
-	}	
-	"PlayerStatusHealthImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"30"
-		"ypos"			"35"
-		"zpos"			"4"
-		"wide"			"51"
-		"tall"			"51"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"1"	
+
 	}		
 	"PlayerStatusHealthImageBG"
 	{
@@ -50,7 +38,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"79"	[$WIN32]
+		"xpos"			"75"	[$WIN32]
 		"ypos"			"53"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"28"	[$WIN32]
@@ -64,7 +52,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"51"
+		"xpos"			"47"
 		"ypos"			"24"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"85"
@@ -80,7 +68,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"49"
+		"xpos"			"45"
 		"ypos"			"26"[$WIN32]
 		"zpos"			"3"
 		"wide"			"85"
