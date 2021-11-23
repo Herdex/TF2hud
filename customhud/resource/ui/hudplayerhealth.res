@@ -30,6 +30,20 @@
 		"enabled"		"0"
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
+	}
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"73"
+		"ypos"			"33"
+		"zpos"			"3"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/health_bg"
+		"scaleImage"	"1"	
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
