@@ -2,8 +2,8 @@
 {
 	"CHudAccountPanel"
 	{
-		"xpos"			"412"
-		"ypos"			"230"
+		"xpos"			"c-16"
+		"ypos"			"c0"
 		"wide"			"10000"
 		"tall"			"10000"
 		"delta_item_x"			"0"
